@@ -10,10 +10,19 @@ h2{
     text-align: center;
     padding: 30px;
     width: 400px;
-    border-radius: 50px;
+    border-top-left-radius: 1000px;
+    border-bottom-right-radius: 2000px;
 }
 p{
     background-color: lightskyblue;
     padding: 20px;
+    border-radius: 50px;
+}
+h3{
+    background-color: rgb(140, 155, 72);
+    margin: 30px;
+    text-align: center;
+    padding: 30px;
+    width: 400px;
     border-radius: 50px;
 }
