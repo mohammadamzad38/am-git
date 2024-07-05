@@ -1,0 +1,19 @@
+div{
+    background-color: crimson;
+    padding: 50px;
+    border-radius: 50px;
+    margin: 30px;
+}
+h2{
+    background-color: rgb(78, 207, 143);
+    margin: 30px;
+    text-align: center;
+    padding: 30px;
+    width: 400px;
+    border-radius: 50px;
+}
+p{
+    background-color: lightskyblue;
+    padding: 20px;
+    border-radius: 50px;
+}
